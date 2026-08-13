@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Monocot-banner.png" alt="Cambitronix Banner" width="100%">
+  <img src="assets/Dicot-Banner.png" alt="Cambitronix Banner" width="100%">
 </p>
 
 # 🌿 Cambitronix
